@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="ASTParser/|ASTParser/" kind="src" path="src"/>
+	<classpathentry kind="lib" path="D:/pmd-bin-5.5.1/pmd-bin-5.5.1/lib/pmd-core-5.5.1.jar" sourcepath="/pmd-core"/>
+	<classpathentry kind="lib" path="D:/pmd-bin-5.5.1/pmd-bin-5.5.1/lib/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="D:/pmd-bin-5.5.1/pmd-bin-5.5.1/lib/pmd-java-5.5.1.jar"/>
+	<classpathentry kind="lib" path="D:/pmd-bin-5.5.1/pmd-bin-5.5.1/lib/jaxen-1.1.6.jar"/>
+	<classpathentry kind="lib" path="D:/pmd-bin-5.5.1/pmd-bin-5.5.1/lib/jcommander-1.48.jar"/>
+	<classpathentry kind="lib" path="D:/pmd-bin-5.5.1/pmd-bin-5.5.1/lib/commons-lang3-3.4.jar"/>
+	<classpathentry kind="lib" path="D:/pmd-bin-5.5.1/pmd-bin-5.5.1/lib/antlr4-runtime-4.5.2-1.jar"/>
+	<classpathentry kind="lib" path="D:/pmd-bin-5.5.1/pmd-bin-5.5.1/lib/antlr-runtime-3.5.2.jar"/>
+	<classpathentry kind="lib" path="D:/pmd-bin-5.5.1/pmd-bin-5.5.1/lib/asm-5.0.4.jar"/>
+	<classpathentry kind="lib" path="D:/pmd-bin-5.5.1/pmd-bin-5.5.1/lib/gson-2.5.jar"/>
+	<classpathentry kind="lib" path="D:/pmd-bin-5.5.1/pmd-bin-5.5.1/lib/javacc-5.0.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/Jeffrey/.m2/repository/ant/ant/1.6.5/ant-1.6.5.jar"/>
+	<classpathentry kind="con" path="org.eclipse.pde.core.requiredPlugins"/>
+	<classpathentry kind="lib" path="D:/workspace/Similarity Test/astlib/org.eclipse.core.contenttype_3.5.100.v20160418-1621.jar"/>
+	<classpathentry kind="lib" path="D:/workspace/Similarity Test/astlib/org.eclipse.core.jobs_3.8.0.v20160509-0411.jar"/>
+	<classpathentry kind="lib" path="D:/workspace/Similarity Test/astlib/org.eclipse.core.resources_3.11.0.v20160503-1608.jar"/>
+	<classpathentry kind="lib" path="D:/workspace/Similarity Test/astlib/org.eclipse.core.runtime_3.12.0.v20160606-1342.jar"/>
+	<classpathentry kind="lib" path="D:/workspace/Similarity Test/astlib/org.eclipse.equinox.common_3.8.0.v20160509-1230.jar"/>
+	<classpathentry kind="lib" path="D:/workspace/Similarity Test/astlib/org.eclipse.equinox.preferences_3.6.1.v20160815-1406.jar"/>
+	<classpathentry kind="lib" path="D:/workspace/Similarity Test/astlib/org.eclipse.equinox.registry_3.6.100.v20160223-2218.jar"/>
+	<classpathentry kind="lib" path="D:/workspace/Similarity Test/astlib/org.eclipse.jdt.core.source_3.12.1.v20160829-0950.jar"/>
+	<classpathentry kind="lib" path="D:/workspace/Similarity Test/astlib/org.eclipse.jdt.core_3.12.1.v20160829-0950.jar" sourcepath="D:/workspace/Similarity Test/astlib/org.eclipse.jdt.core.source_3.12.1.v20160829-0950.jar"/>
+	<classpathentry kind="lib" path="D:/workspace/Similarity Test/astlib/org.eclipse.osgi_3.11.1.v20160708-1632.jar"/>
+	<classpathentry kind="lib" path="D:/workspace/Similarity Test/astlib/org.eclipse.text_3.6.0.v20160503-1849.jar"/>
+	<classpathentry kind="lib" path="D:/pmd-bin-5.5.1/pmd-bin-5.5.1/lib/pmd-ui-5.5.1.jar"/>
+	<classpathentry kind="lib" path="D:/pmd-bin-5.5.1/pmd-bin-5.5.1/lib/pmd-vm-5.5.1.jar"/>
+	<classpathentry kind="lib" path="D:/pmd-bin-5.5.1/pmd-bin-5.5.1/lib/pmd-xml-5.5.1.jar"/>
+	<classpathentry kind="lib" path="D:/pmd-bin-5.5.1/pmd-bin-5.5.1/lib/rhino-1.7.7.jar"/>
+	<classpathentry kind="lib" path="D:/pmd-bin-5.5.1/pmd-bin-5.5.1/lib/saxon-9.1.0.8.jar"/>
+	<classpathentry kind="lib" path="D:/pmd-bin-5.5.1/pmd-bin-5.5.1/lib/saxon-9.1.0.8-dom.jar"/>
+	<classpathentry kind="lib" path="D:/pmd-bin-5.5.1/pmd-bin-5.5.1/lib/scala-compiler-2.10.4.jar"/>
+	<classpathentry kind="lib" path="D:/pmd-bin-5.5.1/pmd-bin-5.5.1/lib/scala-library-2.10.4.jar"/>
+	<classpathentry kind="lib" path="D:/pmd-bin-5.5.1/pmd-bin-5.5.1/lib/scala-reflect-2.10.4.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
